@@ -1,0 +1,2 @@
+# AI-Powered-Resume-Screening-Tool
+This project is an AI-powered resume screening tool that automates the process of matching resumes to job descriptions. It uses Natural Language Processing (NLP) techniques, including TF-IDF vectorization and cosine similarity, to analyze the relevance of resumes and provide a matching score. The tool is designed to streamline the recruitment process by quickly identifying the most suitable candidates based on their resumes.
